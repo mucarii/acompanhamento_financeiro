@@ -1,1 +1,1 @@
-# acompanhamento_financeiro
+# Excel com planilha com dados ficticios para acompanhamento fianceiro
